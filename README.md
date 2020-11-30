@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="200" height="200">
+  <img src="https://telegra.ph/file/0efd913d377fbb66d8a72.jpg" width="200" height="200">
   <h1>Asena UserBot</h1>
 </div>
 <p align="center">
@@ -7,8 +7,6 @@
 </p>
 
 ----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/asenauserbot?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/asenauserbot?style=flat-square)
-
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/mUUQ53TYqI0?style=flat-square)
 
@@ -16,7 +14,7 @@
 
  [WIKI](https://github.com/PerU-MoNsteR/AsenaUserBot/wiki/Kurulum/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PerU-MoNsteR/AsenaUserBot)
 ### RUN by
 
 ```python
