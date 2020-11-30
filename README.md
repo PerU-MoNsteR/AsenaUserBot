@@ -17,7 +17,8 @@
  [WIKI](https://github.com/PerU-MoNsteR/AsenaUserBot/wiki/Kurulum/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/AsenaUserBot)
-### Zor Yöntem
+### RUN by
+
 ```python
 git clone https://github.com/PerU-MoNsteR/AsenaUserBot.git
 cd AsenaUserBot
