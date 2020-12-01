@@ -19,7 +19,7 @@
 
 ```python
 git clone https://github.com/PerU-MoNsteR/viper.git
-cd AsenaUserBot
+cd viper
 pip install -r requirements.txt
 # Config.env #
 python3 main.py
