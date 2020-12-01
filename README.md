@@ -3,7 +3,7 @@
   <h1>Asena UserBot</h1>
 </div>
 <p align="center">
-    viperasena userbot
+    Eliza 2.0 userbot
 </p>
 
 ----
@@ -12,13 +12,13 @@
 
 
 
- [WIKI](https://github.com/PerU-MoNsteR/AsenaUserBot/wiki/Kurulum/)
+ [WIKI](https://github.com/PerU-MoNsteR/viper/wiki/Kurulum/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PerU-MoNsteR/AsenaUserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PerU-MoNsteR/viper)
 ### RUN by
 
 ```python
-git clone https://github.com/PerU-MoNsteR/AsenaUserBot.git
+git clone https://github.com/PerU-MoNsteR/viper.git
 cd AsenaUserBot
 pip install -r requirements.txt
 # Config.env #
