@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://telegra.ph/file/0efd913d377fbb66d8a72.jpg" width="200" height="200">
-  <h1>Asena UserBot</h1>
+  <h1>Eliza 2.0 UserBot</h1>
 </div>
 <p align="center">
     Eliza 2.0 userbot
